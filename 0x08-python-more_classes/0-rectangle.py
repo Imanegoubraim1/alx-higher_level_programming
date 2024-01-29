@@ -1,4 +1,5 @@
-reate a rectangle class """
+#!/usr/bin/python3
+""" Create a rectangle class """
 
 
 class Rectangle:
